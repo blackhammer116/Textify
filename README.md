@@ -1,53 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Project README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
-            color: #333;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: white;
-        }
-        h1 {
-            text-align: center;
-            color: #FF4081;
-        }
-        h2 {
-            color: #333;
-        }
-        p {
-            font-size: 16px;
-        }
-        ul {
-            list-style-type: disc;
-            padding-left: 20px;
-        }
-        code {
-            background-color: #f5f5f5;
-            padding: 5px;
-            border-radius: 5px;
-        }
-        a {
-            color: #FF4081;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
 <body>
     <div class="container">
         <h1>Textify</h1>
