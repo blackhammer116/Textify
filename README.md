@@ -39,7 +39,7 @@
         <p>Then spin up the backend</p>
         <pre><code>cd ..</code></pre>
         <pre><code>python app.py</code></pre>
-        <p>Be sure to use your <strong>own cohere API</strong> for this app otherwise it wont work</p>
+        <p>Be sure to use your <strong><a href="https://dashboard.cohere.com/welcome/login">OWN COHERE API</a></strong> for this app otherwise it wont work</p>
         <p>Once the server is up and running, you can access the application at <strong>http://localhost:5000</strong>.</p>
         <h2 id="contributing">Contributing</h2>
         <p>If you'd like to contribute, feel free to fork the repository and submit a pull request. Please make sure to follow the following guidelines:</p>
